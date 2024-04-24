@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data structure and Algorithms
 - 💞️ I’m looking to collaborate on open-source work
 - 📫 How to reach me Email : mdajharulislam327@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 MdAjharulIslam/MdAjharulIslam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
