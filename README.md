@@ -1,5 +1,4 @@
-# Hello! 
- I'm MdAjharulIslam, a Computer Science and Engineering student. Welcome to my repository!
+ Hello!  I'm Md Ajharul Islam, a Computer Science and Engineering student. Welcome to my repository!
 
 ## About Me
 - **👀 Interested in: coding
