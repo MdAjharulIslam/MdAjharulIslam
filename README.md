@@ -16,8 +16,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-	  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmarkaide&layout=compact&show_icons=true" />
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=pmarkaide&show_icons=ture" />
+	  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&show_icons=true" />
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MdAjharulislam&show_icons=ture" />
 </div>
 <a href=#><img src="contributions.svg"></a>
 <p align="center">
