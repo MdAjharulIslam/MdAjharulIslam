@@ -41,7 +41,6 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
 
 
 
