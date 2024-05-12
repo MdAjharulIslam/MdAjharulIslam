@@ -2,6 +2,7 @@
 <p align = "center">
 </p>
 <p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA550&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things"></p>
+
 ## About Me
 - **💞️ Iam a student of computer science and engineering (CSE)
 - **👀 Interested in: coding
