@@ -20,6 +20,12 @@
 	  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&show_icons=true" />
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MdAjharulislam&show_icons=ture" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/Rodrigo-Cn"> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-Cn&layout=compact&langs_count=7&theme=algolia" alt="Top Langs"/>
+</div>
 <a href=#><img src="contributions.svg"></a>
 <p align="center">
   Visitor count<br>
