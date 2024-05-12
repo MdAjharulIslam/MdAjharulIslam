@@ -1,11 +1,11 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ajharul+islam!;+Computer+Science+and;+Engineering+Student;"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ajharul+islam!;+Computer+Science+and;+Engineering+Student!💞️!;"
   />
 </h1>
 
 ## About Me
-- **💞️ Iam a student of computer science and engineering (CSE)
+- **💞️Iam a student of computer science and engineering (CSE)
 - **👀 Interested in: coding
 - **🌱 Currently learning: DSA in C++   
 - **💞️ Looking to collaborate on: open-source projects
