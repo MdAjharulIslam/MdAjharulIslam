@@ -1,5 +1,6 @@
- Hello!  I'm Md Ajharul Islam, a Computer Science and Engineering student. Welcome to my repository!
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamoyalaikom!+👋🏽;I'm+Md Ajharul Islam!+a Computer Science and Engineering student+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+</h1>
 ## About Me
 - **👀 Interested in: coding
 - **🌱 Currently learning: DSA   
