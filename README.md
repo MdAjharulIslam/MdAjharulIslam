@@ -12,7 +12,7 @@
 - **💞️ Looking to collaborate on: open-source projects
 - **📫 How to reach me: email: mdajharulislam327@gmail.com
 - **😄 Pronouns: he/him
-Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
+- **Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
 
 
 <a href="#">
