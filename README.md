@@ -1,9 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamoyalaikom!+👋🏽;I'm+Md Ajharul Islam!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
-</h1>
+Hi there! Iam Md Ajharul Islam!
 ## About Me
+- **💞️ Iam a student of computer science and engineering (CSE)
 - **👀 Interested in: coding
-- **🌱 Currently learning: DSA   
+- **🌱 Currently learning: DSA in C++   
 - **💞️ Looking to collaborate on: open-source projects
 - **📫 How to reach me: email: mdajharulislam327@gmail.com
 - **😄 Pronouns: he/him
