@@ -12,7 +12,8 @@
 - **💞️ Looking to collaborate on: open-source projects
 - **📫 How to reach me: email: mdajharulislam327@gmail.com
 - **😄 Pronouns: he/him
-- **💞️Thank you for visiting my repository!
+Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
+
 
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=MdAjharulislam&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
