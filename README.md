@@ -11,9 +11,9 @@
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=MdAjharulislam&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
-<a href=#><img src="contributions.svg"></a>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 
+<a href=#><img src="contributions.svg"></a>
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_MdAjharulIslam/count.svg" />
