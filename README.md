@@ -41,7 +41,14 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md ajharul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ajharul islam" height="30" width="40" /></a>
+<a href="https://fb.com/sheikh muhammad ajharul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh muhammad ajharul islam" height="30" width="40" /></a>
+<a href="https://instagram.com/sheikh_muhammad_ajharul_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheikh_muhammad_ajharul_islam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/md ajharul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="md ajharul islam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/md ajharul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md ajharul islam" height="30" width="40" /></a>
+</p>
 
 
 <p align="center">
