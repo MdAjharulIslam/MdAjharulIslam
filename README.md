@@ -2,8 +2,9 @@
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ajharul+islam!;+A+Computer+Science+and;+Engineering+Student!💞️!;"
   />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
-<img align="right" alt="coding" width="375" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/eef76b143584307.627d06916ce10.gif">
+
 ## About Me
 - **💞️Iam a student of computer science and engineering (CSE)
 - **👀 Interested in: coding
