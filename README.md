@@ -8,7 +8,7 @@
 ## About Me
 - **💞️Iam a student of computer science and engineering (CSE)
 - **👀 Interested in: coding
-- **🌱 Currently learning: DSA in C++ And Development
+- **🌱 Currently learning: DSA in C++ And Development!
 - **💞️ Looking to collaborate on: open-source projects
 - **📫 How to reach me: email: mdajharulislam327@gmail.com
 - **😄 Pronouns: he/him
