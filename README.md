@@ -26,7 +26,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_MdAjharulIslam/count.svg" />
 </p>
-## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Preferred Programming Languages and Tools
+ <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Preferred Programming Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
