@@ -25,6 +25,9 @@
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_MdAjharulIslam/count.svg" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </p>
  ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; /> Preferred Programming Languages and Tools
 
