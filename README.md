@@ -46,7 +46,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 
-<h3 align="left">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Connect with me:</h3>
+<h2 align="left">  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/Md Ajharul Islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md ajharul islam" height="30" width="40" /></a>
 <a href="https://fb.com/sheikh muhammad ajharul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheikh muhammad ajharul islam" height="30" width="40" /></a>
