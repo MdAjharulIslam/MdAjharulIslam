@@ -21,6 +21,14 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAjharulIslam&show_icons=true&theme=algolia"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
 </div>
+
+    <div align="center">
+  <a href="https://github.com/MdAjharulIslam">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAjharulIslam&show_icons=true&theme=algolia" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Languages"/>
+  </a>
+</div>
+
 <a href=#><img src="contributions.svg"></a>
 <p align="center">
   Visitor count<br>
