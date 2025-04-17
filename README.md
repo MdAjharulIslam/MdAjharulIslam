@@ -9,10 +9,10 @@
 </h1>
 
 ## About Me
-- **📫Iam a Software Engineer And Full-stack Developer
+- **📫Iam a Software Engineer And Full-stack (MERN) Developer
 - **💞️Iam a student of computer science and engineering (CSE)
 - **👀 Interested in: programming
-- **🌱 Currently learning:Practicing  DSA with C++ , Development And Database!
+- **🌱 Currently learning:Practicing  DSA with C++ , Development !
 - **💞️ Looking to collaborate on: open-source projects
 - **📫 How to reach me: email: mdajharulislam327@gmail.com
 - **😄 Pronouns: he/him
