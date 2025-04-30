@@ -95,23 +95,14 @@
   Connect with me:
 </h2>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-ajharul-islam-695522305" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - md ajharul islam" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/sheikhmuhammadajharulislam" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook - sheikh muhammad ajharul islam" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sheikh_muhammad_ajharul_islam" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - sheikh_muhammad_ajharul_islam" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/mdajharulislam31" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - md ajharul islam" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mdajharulislam" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - md ajharul islam" height="30" width="40" />
-  </a>
-</p>
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ajharul-islam-695522305)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sheikhmuhammadajharulislam)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sheikh_muhammad_ajharul_islam)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mdajharulislam31)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://www.leetcode.com/mdajharulislam)
+
+
 
 
 <p align="center">
