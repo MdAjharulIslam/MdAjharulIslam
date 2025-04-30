@@ -71,6 +71,10 @@
 ![CORS](https://img.shields.io/badge/CORS-%231E90FF.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Local Storage](https://img.shields.io/badge/LocalStorage-%23323330.svg?style=for-the-badge&logo=google-chrome&logoColor=yellow)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React Router](https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Toastify](https://img.shields.io/badge/React--Toastify-FFCE00?style=for-the-badge&logo=react&logoColor=black)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-%2363b3ed.svg?style=for-the-badge&logo=daisyui&logoColor=white)
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
