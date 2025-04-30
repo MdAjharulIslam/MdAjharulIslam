@@ -65,6 +65,10 @@
 ![REST API](https://img.shields.io/badge/REST-API-%2300ADD8.svg?style=for-the-badge&logo=api&logoColor=white)
 ![JSON Web Tokens (JWT)](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C6E71?style=for-the-badge&logo=oauth&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-%23232323.svg?style=for-the-badge&logo=security&logoColor=white)
+![Helmet.js](https://img.shields.io/badge/helmet.js-339933?style=for-the-badge&logo=helmet&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-%231E90FF.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
