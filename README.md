@@ -4,7 +4,7 @@
    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ajharul+islam!;+A+Software+Engineer+And;+Full-stack+Developer!;"
    alt="Typing animation"
  />
-
+ 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h1>
 
