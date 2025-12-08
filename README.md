@@ -21,14 +21,16 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 <div align="center">
   <a href="https://github.com/MdAjharulIslam">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAjharulIslam&show_icons=true&theme=algolia"/>
+   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
+    <!-- Fix this line -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAjharulIslam&show_icons=true&theme=algolia"/>
  </div>
 
   
 <a href=#><img src="contributions.svg"></a>
 
-<img src=" https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif">
+<img src=" https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif">80em" 
     
 <h2>
   <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Programming Languages and Tools:
