@@ -29,11 +29,10 @@
   
 <a href=#><img src="contributions.svg"></a>
 
-![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
+
 
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_MdAjharulIslam/count.svg" />
+![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
 </p>
 
 
