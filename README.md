@@ -28,7 +28,8 @@
 
   
 <a href=#><img src="contributions.svg"></a>
-[Visitor Count](https://profile-counter.glitch.me/MdAjharulIslam/count.svg)
+![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <img src=" https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif">80em" 
     
