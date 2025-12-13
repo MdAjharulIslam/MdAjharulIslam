@@ -31,9 +31,8 @@
 
 
 
-<p align="center">
 ![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
-</p>
+
 
 
 
