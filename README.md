@@ -29,7 +29,8 @@
   
 <a href=#><img src="contributions.svg"></a>
 
-![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=flat&base=5000)
+![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
+
 
 
 
