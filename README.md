@@ -28,7 +28,10 @@
 
   
 <a href=#><img src="contributions.svg"></a>
+<div align="center">
 ![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=flat&base=5000)
+</div>
+
 
 
 
