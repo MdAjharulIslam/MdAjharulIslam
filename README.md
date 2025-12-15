@@ -25,7 +25,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
  
  </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAjharulIslam&show_icons=true&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MdAjharulIslam&show_icons=true&theme=algolia)](https://git.io/streak-stats)
+
 
 
 <a href=#><img src="contributions.svg"></a>
