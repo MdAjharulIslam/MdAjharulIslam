@@ -25,10 +25,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
  
  </div>
-<div>
-      ## 🔥 Streak Stats
-<img height="180em" src="https://nirzak-streak-stats.vercel.app/?username=MdAjharulIslam&show_icons=true&theme=algolia" /> 
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAjharulIslam&show_icons=true&theme=algolia)](https://git.io/streak-stats)
+
 
 <a href=#><img src="contributions.svg"></a>
 
