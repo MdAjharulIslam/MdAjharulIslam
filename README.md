@@ -22,10 +22,11 @@
 <div align="center">
   <a href="https://github.com/MdAjharulIslam">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAjharulIslam&show_icons=true&theme=algolia"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
- 
- </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=MdAjharulIslam&show_icons=true&theme=algolia)](https://git.io/streak-stats)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
+  </a>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MdAjharulIslam&theme=algolia)](https://git.io/streak-stats)
 
 
 
