@@ -25,7 +25,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
   </a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=md-zeon&theme=dark&hide_border=false)  
 
 
 
