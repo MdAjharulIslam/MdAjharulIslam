@@ -27,7 +27,7 @@
  </div>
 <div>
       ## 🔥 Streak Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?username=MdAjharulIslam&show_icons=true&theme=algolia) 
+<img height="180em" src="https://nirzak-streak-stats.vercel.app/?username=MdAjharulIslam&show_icons=true&theme=algolia" /> 
 </div>
 
 <a href=#><img src="contributions.svg"></a>
