@@ -24,7 +24,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAjharulIslam&show_icons=true&theme=algolia"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
   </a>
-  ![](https://github-readme-stats.vercel.app/api?username=ruhul2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </div>
 
 
