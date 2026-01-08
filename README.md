@@ -48,7 +48,9 @@
 </h2>
 
 
-
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=MdAjharulIslam&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=false&profile=false" alt="GitHub Insights" />
+</p>
 
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
