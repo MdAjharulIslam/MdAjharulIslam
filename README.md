@@ -18,15 +18,6 @@
 - **Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-<div align="center">
-  <a href="https://github.com/MdAjharulIslam">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdAjharulIslam&show_icons=true&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAjharulIslam&layout=compact&langs_count=10&theme=algolia" alt="Top Langs"/>
-  </a>
-</div>
-
-
 
 
 <a href=#><img src="contributions.svg"></a>
