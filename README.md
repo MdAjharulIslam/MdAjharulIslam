@@ -20,7 +20,7 @@
 
 
 
-
+<img src=" https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif">
 
 
 
@@ -34,7 +34,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
 
-<img src=" https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif">
+
     
 <h2>
   <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Programming Languages and Tools:
