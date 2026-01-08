@@ -16,21 +16,23 @@
 - **📫 How to reach me: email: mdajharulislam327@gmail.com
 - **😄 Pronouns: he/him
 - **Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
+
+
+
+
+
+
+
+
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=MdAjharulIslam&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 <a href=#><img src="contributions.svg"></a>
 
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=MdAjharulIslam&label=Profile%20views&color=0e75b6&style=for-the-badge&base=7532)
-
-
-
-
-
-
 
 <img src=" https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif">
     
@@ -39,9 +41,7 @@
 </h2>
 
 
-<p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=MdAjharulIslam&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=false&profile=false" alt="GitHub Insights" />
-</p>
+
 
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
