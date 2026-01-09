@@ -4,7 +4,7 @@
    alt="Typing animation"
  />  
    
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </h1>
  
 ## About Me
@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=MdAjharulIslam&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <a href=#><img src="contributions.svg"></a>
 
 
