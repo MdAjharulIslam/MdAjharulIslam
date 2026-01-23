@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img                
+  <img                 
    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ajharul+islam!;+A+Software+Engineer+And;+Full-stack+Developer!;"
    alt="Typing animation"
  />  
