@@ -1,21 +1,28 @@
- <h1 align="center">
+<h1 align="center">
   <img  
-   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ajharul+islam!;+A+Software+Engineer+And;+Full-stack+Developer!;"
+   src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F59E0B&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Ajharul+Islam!;+Software+Engineer+And;+Full-stack+Developer!;"
    alt="Typing animation"
  />  
-   
-
 </h1>
- 
-## About Me
-- **📫Iam a Software Engineer And Full-stack (MERN) Developer
-- **💞️Iam a student of computer science and engineering (CSE)
-- **👀 Interested in: programming
-- **🌱 Currently learning:Practicing  DSA with C++ , Development !
-- **💞️ Looking to collaborate on: open-source projects
-- **📫 How to reach me: email: mdajharulislam327@gmail.com
-- **😄 Pronouns: he/him
-- **Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
+
+## 🚀 About Me
+- 📫 I am a **Software Engineer** and **Full-stack Developer (MERN + Laravel)**
+- 💻 Skilled in both **Frontend & Backend Development**
+- 🎓 I am a student of **Computer Science and Engineering (CSE)**
+- 👀 Interested in: **Programming, Web Development, Problem Solving**
+- 🌱 Currently learning: **DSA with C++**, **Advanced Laravel**, and **Modern Web Technologies**
+- 💞️ Looking to collaborate on: **Open Source Projects**
+- 📫 How to reach me: **mdajharulislam327@gmail.com**
+- 😄 Pronouns: **He/Him**
+  
+## 🌟 Goals
+- Become a **high-level Full-stack Engineer**
+- Contribute to impactful **open-source projects**
+- Build scalable and real-world applications
+
+---
+
+✨ *Feel free to explore my repositories, and let's build something extraordinary together!* 🚀
 
 
 
@@ -48,8 +55,13 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### 🌐 Frontend
+---
+
+### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -58,34 +70,53 @@
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-%2363b3ed.svg?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧠 Backend
+---
+
+### 🧠 Backend Development
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
+#### 🔶 Laravel & PHP Ecosystem
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/blade-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent-ORM-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-API-%2300ADD8.svg?style=for-the-badge&logo=api&logoColor=white)
+![Authentication](https://img.shields.io/badge/Auth-Laravel-red?style=for-the-badge)
+![Middleware](https://img.shields.io/badge/Middleware-Laravel-orange?style=for-the-badge)
+![Migration](https://img.shields.io/badge/Migrations-DB-blue?style=for-the-badge)
+![Seeder](https://img.shields.io/badge/Seeder-DB-green?style=for-the-badge)
+![Factory](https://img.shields.io/badge/Factory-Laravel-purple?style=for-the-badge)
+
+#### 🔐 Security & APIs
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-%23232323.svg?style=for-the-badge&logo=security&logoColor=white)
 ![Helmet.js](https://img.shields.io/badge/helmet.js-339933?style=for-the-badge&logo=helmet&logoColor=white)
 
-### 📦 Tools & Services
-![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
 ### 💾 Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### ☁️ Deployment & Cloud Services
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+---
 
-
+### 🧰 Tools & Development Environment
+![Git](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
   Connect with me:
