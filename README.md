@@ -17,7 +17,7 @@
   
 ## 🌟 Goals
 - Become a **high-level Full-stack Engineer**
-- Contribute to impactful **open-source projects**
+- Contribute to impactful **open-source projects** 
 - Build scalable and real-world applications
 
 ---
