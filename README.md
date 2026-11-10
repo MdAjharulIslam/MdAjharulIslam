@@ -5,7 +5,7 @@
  />  
 </h1>
 
-## 🚀 About Me
+## 🚀 About Me 
 - 📫 I am a **Software Engineer** and **Full-stack Developer (MERN + Laravel)**
 - 💻 Skilled in both **Frontend & Backend Development**
 - 🎓 I am a student of **Computer Science and Engineering (CSE)**
